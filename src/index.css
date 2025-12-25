@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Great+Vibes&display=swap');
+
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply m-0 overflow-hidden text-white antialiased;
+    background: radial-gradient(circle at center, #1f101b, #000000);
+    font-family: 'Cinzel', serif;
+  }
+}
+
+/* Custom Utilities if needed */
+.text-shadow-glow {
+  text-shadow: 0 0 10px #ffdae0, 0 0 20px #ffdae0;
+}

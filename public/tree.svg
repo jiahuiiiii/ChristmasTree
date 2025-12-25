@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Tree Bottom Layer -->
+  <path d="M20 80 L80 80 L50 40 Z" fill="#165B33" />
+  <!-- Tree Middle Layer -->
+  <path d="M25 60 L75 60 L50 25 Z" fill="#146B3A" />
+  <!-- Tree Top Layer -->
+  <path d="M30 40 L70 40 L50 10 Z" fill="#1A8754" />
+  <!-- Trunk -->
+  <rect x="45" y="80" width="10" height="15" fill="#5C4033" />
+  <!-- Star -->
+  <path d="M50 2 L53 12 L63 12 L55 18 L58 28 L50 22 L42 28 L45 18 L37 12 L47 12 Z" fill="#FFD700" />
+</svg>
